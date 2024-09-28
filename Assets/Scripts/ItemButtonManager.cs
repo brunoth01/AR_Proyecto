@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.XR.Interaction.Toolkit;
 
 public class ItemButtonManager : MonoBehaviour
 {
@@ -11,7 +10,9 @@ public class ItemButtonManager : MonoBehaviour
     private Sprite itemImage;
     private GameObject item3DModel;
 
-    private ARInteractionManager interactionManager;
+    //private ARInteractionManager interactionManager; //Para integrar el Pointer al Modelo3D para asignar posicion.
+
+
 
     public string ItemName
     {
@@ -25,6 +26,8 @@ public class ItemButtonManager : MonoBehaviour
     public Sprite ItemImage { set => itemImage = value; }
     public GameObject Item3Dmdel { set => item3DModel = value; }
 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,12 +39,15 @@ public class ItemButtonManager : MonoBehaviour
         button.onClick.AddListener(GameManager.Instance.ARPosition); //Que cuando eliga un item llame al evento ARPosition
         button.onClick.AddListener(Create3DModel);
 
-        interactionManager = FindAnyObjectByType<ARInteractionManager>();
+        //Aqui defino el Pointer con el Modelo.
+        //interactionManager = FindObjectOfType<ARInteractionManager>();
     }
 
     private void Create3DModel()
     {
-        interactionManager.Item3DModel = Instantiate(item3DModel);
+        Instantiate(item3DModel);
+        //como quiero que se asigne el modelo3D en el interactionManager. debo modificar esta parte.
+        //interactionManager.Item3DModel = Instantiate(item3DModel);
     }
     // Update is called once per frame
     void Update()

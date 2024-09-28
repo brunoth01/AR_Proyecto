@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b75222bf4202b14bbac2cba26aba299, type: 3}
   m_Name: Lampara
   m_EditorClassIdentifier: 
-  ItemName: Lampara
-  ItemImage: {fileID: 21300000, guid: 955aac9f203a86a4eb624bc70f87b3a6, type: 3}
-  ItemDescription: Lampara Descipcion
-  Item3DModel: {fileID: 5164175756782360787, guid: d6ba50c2971268c44acdd5dd0acbda0a,
+  ItemName: Nave
+  ItemImage: {fileID: 21300000, guid: 6a632432a2eadbd48bee37cbbccf1d37, type: 3}
+  ItemDescription: Nave Descipcion
+  Item3DModel: {fileID: 919132149155446097, guid: 2f449c57b3a481947acc17ae33565239,
     type: 3}
