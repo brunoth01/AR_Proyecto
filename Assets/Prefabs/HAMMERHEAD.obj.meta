@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: c8e6a9b0d87830542949dcc6bbb084b6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_SAS_Tourelle_H_dessou_sas_tourelleMat
+    second: {fileID: 2100000, guid: 8aa600e42dbc8cc46a5c4bf22f098c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_SAS_Tourelle_H_sas_tourelleMat
+    second: {fileID: 2100000, guid: eedd3b85129c8294584ded0c7ffac0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_tourelle_H_canonMat
+    second: {fileID: 2100000, guid: e98135cbeecdd3d44a51f3cf788048ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_tourelle_H_descente_tourelle_1Mat
+    second: {fileID: 2100000, guid: b4c327e633ebaf444bc7b7df1054801d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_tourelle_H_detailsMat
+    second: {fileID: 2100000, guid: c623d1d96ae794b489bb61028bc55962, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_tourelle_H_soustourelleMat
+    second: {fileID: 2100000, guid: 5a8b9191056a84f4fa668dfbf8f30b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neutre_tourelle_H_tourelleMat
+    second: {fileID: 2100000, guid: ff20ca87971886c43ad7c59467a8921e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cateling_LMat
+    second: {fileID: 2100000, guid: e625a59f9e84a9b4dad6ed6dde1099b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cateling_RMat
+    second: {fileID: 2100000, guid: f419e2f662c777e469116a0d62078826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coque_coque_pricimpale-_Cylindre_Mat
+    second: {fileID: 2100000, guid: fbfae72533d8b424e97754b15c8d3015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coque_coque_pricimpale-_Cylindre__interieurMat
+    second: {fileID: 2100000, guid: d6e2bf76a092d3f42872b6ea467d8058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coque_coque_pricimpale-_Cylindre__suport_reactorMat
+    second: {fileID: 2100000, guid: 2b67fa5a220ed5c4fa22642fa6b8dc34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lateral_L_door_lateral_L1Mat
+    second: {fileID: 2100000, guid: 9544cbbb837ce944b86fbe7475e26f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lateral_L_face_cache_dlMat
+    second: {fileID: 2100000, guid: 491432c9a866c7b4e92ed3c3bad71c5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lateral_R_door_lateral_R1Mat
+    second: {fileID: 2100000, guid: 5ed5ab5581a115c4a8213a45cbb1187e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_lateral_R_face_cache_drMat
+    second: {fileID: 2100000, guid: 2fedd6db21707304aa2e8ef07b139ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porte_arriere_face_cacheMat
+    second: {fileID: 2100000, guid: 8ea7a23fae32a074687f48e2fa7983df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: porte_arriere_porte_arriere1Mat
+    second: {fileID: 2100000, guid: e30ce68e9df9b774e8eef42ce124222f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reactor_L_1Mat
+    second: {fileID: 2100000, guid: 1a687a9c3ed4ec145a7608a11199cafe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: reactor_R_1Mat
+    second: {fileID: 2100000, guid: 178e6e90d136cad4084b0a3c7fe0a9ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sponson_LMat
+    second: {fileID: 2100000, guid: b273c346d7a24994886b2e81f6ba3ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sponson_RMat
+    second: {fileID: 2100000, guid: fd5055c4a6e09f24ea5ea924463cbd88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: support__cateling_RMat
+    second: {fileID: 2100000, guid: 096ccca070027704ea9e83f9873c59ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: support_cateling__LMat
+    second: {fileID: 2100000, guid: b68abdf9f55d4d440bcbb92306d3aaaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tete_avantMat
+    second: {fileID: 2100000, guid: 78818ec9b24024149a2466fa22d610f8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,6 +4,8 @@ using System.IO;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
 
+
+
 public class ShareScreenShot : MonoBehaviour
 {
     [SerializeField] private GameObject mainMenuCanvas;

@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.burst": {
-      "version": "1.8.16",
+      "version": "1.8.17",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -278,11 +278,10 @@
       "url": "https://packages.unity.com"
     },
     "com.yasirkula.nativeshare": {
-      "version": "https://github.com/yasirkula/UnityNativeShare.git",
+      "version": "file:C:/Users/bruno/Downloads/Compressed/UnityNativeShare-master",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "99559c82d9ef7fa2e2c588b91b1995f117f754b2"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
